@@ -1,0 +1,14 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="bayembaye.example.com.finalappguideetudiant.fragments.BiblioFragment">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:dividerHeight="2dp"
+        android:cacheColorHint="@color/colorPrimary"
+        android:id="@+id/list_livre"/>
+
+</FrameLayout>

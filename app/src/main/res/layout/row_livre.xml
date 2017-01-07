@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:src="@drawable/ic_library_books_black_48dp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:paddingTop="@dimen/nav_header_vertical_spacing"
+            android:id="@+id/img_util_contact"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="190dp"
+                android:layout_height="20dp"
+                android:id="@+id/livre_titre"
+                android:text="Titre" />
+            <TextView
+                android:layout_width="190dp"
+                android:layout_height="20dp"
+                android:id="@+id/livre_auteur"
+                android:text="Auteur" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:id="@+id/edition_livre"
+        android:text="Edition"/>
+</LinearLayout>

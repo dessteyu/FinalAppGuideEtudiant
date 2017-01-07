@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:src="@drawable/ensa7"
+            android:layout_width="76dp"
+            android:layout_height="76dp"
+            android:paddingTop="@dimen/nav_header_vertical_spacing"
+            android:id="@+id/img_util_contact"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/email_utli"
+                android:text="bayembye@gmail.com" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tel_util"
+                android:text="777826604" />
+            <TextView
+                android:layout_width="310dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/cas_util"
+                android:text="cas utils pour ce numero" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/name_util"
+        android:text="Rectorat"/>
+</LinearLayout>

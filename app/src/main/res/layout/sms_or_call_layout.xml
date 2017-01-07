@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <ImageButton
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/sym_action_chat"
+        android:id="@+id/sms_button"
+        android:layout_weight="1"
+        android:background="@color/purpleLite"
+        android:layout_alignParentLeft="true" />
+
+    <ImageButton
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_menu_call"
+        android:id="@+id/call_button"
+        android:layout_weight="1"
+        android:background="@color/purpleLite"
+        android:layout_alignBottom="@+id/sms_button"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:text="annuler"
+        android:layout_marginTop="42dp"
+        android:id="@+id/button_cancel_sms_call"
+        android:layout_below="@+id/sms_button"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:title="Univerite de Thies">
+    <menu >
+        <item
+            android:id="@+id/id_presantation"
+            android:icon="@drawable/ic_room_service_black_48dp"
+            android:title="Presantation" />
+        <item
+            android:id="@+id/id_ufr"
+            android:title="Les UFRs"
+            android:icon="@android:drawable/ic_menu_myplaces"/>
+        <item
+            android:id="@+id/id_inscription"
+            android:icon="@drawable/ic_attach_file_black_48dp"
+            android:title="Inscription" />
+        <item android:icon="@drawable/ic_library_books_black_48dp"
+            android:title="la bliothèque"
+            android:id="@+id/lib"/>
+
+    </menu>
+</item>
+
+    <item android:title="Social">
+        <menu>
+            <item
+                android:id="@+id/id_vie_soc"
+                android:icon="@drawable/ic_restaurant_black_48dp"
+                android:title="le social à l'UT" />
+            <item
+                android:id="@+id/id_logement"
+                android:icon="@drawable/ic_domain_black_48dp_2x"
+                android:title="Logement" />
+            <item
+                android:id="@+id/groupememt"
+                android:title="Amicales"
+                android:icon="@drawable/ic_card_membership_black_48dp"
+                />
+
+        </menu>
+    </item>
+    <item android:title="Le Systeme LMD">
+        <menu>
+            <item android:title="LMD ?"
+                android:id="@+id/def_lmd"
+                android:icon="@drawable/ic_highlight_black_24dp"/>
+        </menu>
+    </item>
+    <item android:title="Urgences et Infos">
+        <menu>
+            <item android:title="Les contacts utils"
+                android:id="@+id/id_list_num"
+                android:icon="@drawable/presantion"/>
+        </menu>
+    </item>
+</menu>
