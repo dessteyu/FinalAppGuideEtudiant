@@ -4,9 +4,11 @@ import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.text.Html;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebView;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -31,12 +33,13 @@ public class Displayer extends Fragment {
     public Displayer() {
         // Required empty public constructor
     }
-    public static Displayer newInstance(int id_photo, int id_text,int title) {
+
+    public static Displayer newInstance(int id_photo, int id_text, int title) {
         Displayer fragment = new Displayer();
         Bundle args = new Bundle();
         args.putInt(ARG_PARAM1, id_photo);
         args.putInt(ARG_PARAM2, id_text);
-        args.putInt(ARG_PARAM3,title);
+        args.putInt(ARG_PARAM3, title);
         fragment.setArguments(args);
         return fragment;
     }
@@ -54,14 +57,17 @@ public class Displayer extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View root =  inflater.inflate(R.layout.fragment_displayer, container, false);
+        View root = inflater.inflate(R.layout.fragment_displayer, container, false);
         // Inflate the layout for this fragment
-        TextView text = (TextView)root.findViewById(R.id.text_displayer);
-        ImageView img = (ImageView)root.findViewById(R.id.image_dispalyer);
-        TextView title = (TextView)root.findViewById(R.id.id_title);
+        WebView webview = (WebView) root.findViewById(R.id.text_displayer);
+        ImageView img = (ImageView) root.findViewById(R.id.image_dispalyer);
+        TextView title = (TextView) root.findViewById(R.id.id_title);
 
         //make the view on the fragment
-        text.setText(getResources().getText(this.id_text));
+//        text.setText(Html.fromHtml(getResources().getText(this.id_text).toString()));
+
+        webview.getSettings().setJavaScriptEnabled(true);
+        webview.loadDataWithBaseURL(null, getResources().getText(this.id_text).toString(), "text/html", "UTF-8", "");
         title.setText(Driver.TITLES_LISTES[this.title_text]);
         img.setImageResource(this.id_photo);
         return root;

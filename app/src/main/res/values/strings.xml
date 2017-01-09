@@ -9,205 +9,224 @@
         <item>Sénégalaise</item>
         <item>Etrangére</item>
     </string-array>
-    <string name="restauration">Le logement
+    <string name="restauration">
+        <![CDATA[<p>
+    <h4>Le logement</h4>
 
-"L’université de Thiès dispose de cinq principaux sites d’hébergement\n"
-"Le site principal situé au niveau de l’UFR SES.\n"
-"Le site de l'Hotel du Rail situé dans le quartier de Pilo au niveau de la centre ville de Thiès.\n"
-"Le site de l’auberge «chez Laurent» situé sur la route de saint–louis.\n"
-"Les sites de l’ISFAR et de l’ENSA.\n"
+    L’université de Thiès dispose de cinq principaux sites d’hébergement Le site principal situé au niveau de l’UFR SES. Le site
+    de l \'Hotel du Rail situé dans le quartier de Pilo au niveau de la centre ville de Thiès. Le site de l’auberge «chez Laurent»
+    situé sur la route de saint–louis. Les sites de l’ISFAR et de l’ENSA.
+</p>
 
-"La restauration"
+<p>
+    <h4>La restauration</h4>
 
-"L’université dispose d’un restaurant central à l’UFR SES en plus des restaurants de l’ENSA et de"
-"L’ISFAR à Bambey gérés par le COUD (le Centre des Œuvres Universitaires de Dakar).\n"
-"Les services sanitaires"
-"L’université dispose de ses structures de santé et peut en cas de besoins solliciter les "
-"structures hospitalières  de Thiès.\n"
+    L’université dispose d’un restaurant central à l’UFR SES en plus des restaurants de l’ENSA et de L’ISFAR à Bambey gérés par
+    le COUD (le Centre des Œuvres Universitaires de Dakar). Les services sanitaires L’université dispose de ses structures
+    de santé et peut en cas de besoins solliciter les structures hospitalières de Thiès.
+</p>
 
-"Les services du sport et de la culture"
+<p>
+    <h4>Les services du sport et de la culture</h4>
 
-"L’université dispose d’un service des sports et de la  culture avec différentes disciplines dont"
-"le football et  le basket et dispose pour la promotion de cette importante activité d’un"
-"consultant en sport et culture.\n"
+    L’université dispose d’un service des sports et de la culture avec différentes disciplines dont le football et le basket
+    et dispose pour la promotion de cette importante activité d’un consultant en sport et culture.
+</p>
+<p>
+    <h4>L’Orientation-Conseils</h4>
 
-"L’Orientation-Conseils"
-
-"En dehors des missions classiques liées à l’orientation, l’université dans le cadre des CDP"
-"(Contrat de performance) dispose également d’un consultant en conseil –orientation qui accompagne"
-"et assiste les étudiants et tous les acteurs du système universitaires interne et externe."
-"Ce consultant travail avec la DEPVU et plus précisément  avec le bureau accueil information,"
-"orientation (BAIO)  du service central de la scolarité  que nous voulons transformer en un Bureau"
-"Universitaire d’Information et d’Orientation (BUIO) du fait de sa transversalité."
-</string>
+    En dehors des missions classiques liées à l’orientation, l’université dans le cadre des CDP (Contrat de performance) dispose
+    également d’un consultant en conseil –orientation qui accompagne et assiste les étudiants et tous les acteurs du système
+    universitaires interne et externe. Ce consultant travail avec la DEPVU et plus précisément avec le bureau accueil information,
+    orientation (BAIO) du service central de la scolarité que nous voulons transformer en un Bureau Universitaire d’Information
+    et d’Orientation (BUIO) du fait de sa transversalité.
+</p>]]>
+    </string>
     <string name="def_note">
-"Le LMD met en place principalement une architecture basée sur trois grades :"
-"licence, master et doctorat; une organisation des enseignements en semestres et"
-"unités d’enseignement; la mise en œuvre des crédits et par la délivrance"
-"d’une annexe descriptive au diplôme."
-"La réforme LMD (pour « Licence-Master-Doctorat ») désigne un ensemble de"
-"mesures modifiant le système d’enseignement supérieur pour l’adapter aux"
-"standards internationaux."
-"Elle met en place principalement une architecture basée sur trois grades:"
-"licence, master et doctorat; une organisation des enseignements en semestres et"
-"unités d’enseignement; la mise en œuvre des crédits et par la délivrance d’une"
-"annexe descriptive au diplôme."
-"Les textes fondateurs de cette réforme sont parus en 2002, mais celle-ci s’est"
-"étalée sur plusieurs années, et en 2011 certaines formations sont encore en train d’être modifiées."
-"Objectifs"
-"Les objectifs de l’enseignement supérieur sont:"
-"– l’organisation de l’offre de formation sous la forme de « parcours types de formation »,"
-"ensembles cohérents d’unités d’enseignement organisant des progressions pédagogiques adaptées,"
-"préparant l’ensemble des diplômes nationaux;"
-"– l’intégration, en tant que de besoin, des approches pluridisciplinaires et la facilitation"
-"de l’amélioration de la qualité pédagogique, de l’information, de l’orientation et de"
-"l’accompagnement de l’étudiant;"
-"– le développement de la professionnalisation des études supérieures,"
-"la réponse aux besoins de formation continue diplômante et la favorisation de la validation"
-"des acquis de l’expérience, en relation avec les milieux économiques et sociaux;"
-"– l’encouragement à la mobilité, l’accroissement de l’attractivité des formations,"
-"au niveau national et international, et la possibilité de la prise en compte et de la"
-"validation des périodes de formation;
-"– l’intégration de l’apprentissage de « compétences transversales » telles que la
-"maîtrise des langues vivantes étrangères et celle des outils informatiques;
-"– la facilitation de la création d’enseignements par des méthodes faisant appel aux
-"technologies de l’information et de la communication et du développement de l’enseignement
-"à distance.
-"Les grades
-"Abandonnant l’ancienne organisation en trois cycles universitaires de deux ans
-"chacun(DEUG, Licence et Troisième cycle: DESA, DESS) et d’un Doctorat d’Etat,
-"le système LMD reconnaît trois diplômes et grades nationaux:
-"– Licence(L): diplôme de niveau bac+3 (soit fondamentale, soit professionnelle)
-"– Master(M): diplôme de niveau bac+5 (soit fondamental préparant à la recherche, soit spécialisé)
-"– Doctorat(D): diplôme de niveau bac+8 sanctionnant un travail de recherche dans le cadre d’une thèse.
-"A noter que parallèlement à ces trois diplômes dits nationaux, les établissements d’enseignement
-"supérieur peuvent délivrer des diplômes spécifiques dits d’université ou d’établissement qui
-"correspondent à un domaine restreint, à vocation temporaire ou professionnelle. Le mode d’accès,
-"la durée des études, le mode d’évaluation peuvent être très différents d’un établissement à l’autre.
-"Les unités d’enseignement et les crédits
-"Les parcours de formations sont découpés en « unités d’enseignement ».
-"Chacune a une valeur définie en crédits. Le nombre de crédits par unité d’enseignement
-"est défini sur la base de la « charge totale de travail requise de la part de l’étudiant
-"pour obtenir l’unité ». La charge totale de travail tient compte de l’ensemble de l’activité
-"exigée de l’étudiant et, notamment, du volume et de la nature des enseignements dispensés, du
-"travail personnel requis, des stages, mémoires, projets et autres activités.
-"Afin d’assurer la « comparaison » et le « transfert » des parcours de formation au niveau
-"international, une référence commune est fixée correspondant à l’acquisition,
-"après le baccalauréat, de 180 crédits pour le niveau licence et de 300 crédits pour le
-"niveau master. Cette référence permet de définir la valeur en crédits de l’ensemble des
-"diplômes. Les crédits sont obtenus lorsque les conditions de validation définies par les
-"odalités de contrôle de connaissances et aptitudes propres à chaque type d’études sont satisfaites.
-"L’annexe descipriptive
-"Ce système de crédit est accompagné de la délivrance d’une annexe descriptive aux diplômes.
-"L’annexe descriptive est le supplément au diplôme, c’est–à-dire un document joint à un diplôme
-"d’études supérieures qui vise à améliorer la « transparence » internationale et à faciliter
-"la reconnaissance académique et professionnelle des qualifications(diplômes, acquis universitaires
-"etc..).
-"Il est destiné à décrire la nature, le niveau, le contexte, le contenu et le statut
-"des études accomplies avec succès par l’étudiant.
-"En clair, le supplément au diplôme (annexe descriptive) n’est pas un curriculum vitae,
-"ni un relevé de notes mais une description précise du cursus de l’étudiant
-"et des compétences acquises pendant la période d’études.
-"Un dispositif d’accompagnement et d’evaluation
-"L’étudiant bénéficiera d’un accompagnement pédagogique tout au long de
-"son parcours pour l’aider à définir ses objectifs de formation et à les mettre en œuvre.
-"Ainsi, l’étudiant pourra construire son parcours de formation et son projet
-"professionnel sur la base de parcours type. Il pourra le modifier ou le faire
-"évoluer par le choix d’options. Des passerelles existeront entre les différents
-"parcours, c’est-à-dire il y aura possibilité pour l’étudiant d’évoluer dans ses
-"choix ou de se réorienter d’une filière vers une autre ou d’un domaine vers un
-"autre tout en conservant les acquis des parcours antérieurs.
-"En outre, il y aura un système d’évaluation semestriel(un examen à la fin de chaque semestre)
-"et pour chaque Unité d’Enseignement, il est prévu un examen final, en plus des
-"contrôles continus, des contrôles de TD, de TP, de l’évaluation du travail personnel,
-"des travaux de recherche, des exposés, des interrogations orales ou écrites etc.
-"Enfin, un examen de la deuxième chance (double session) sera accordé à l’étudiant
-"n’ayant pas obtenu une moyenne supérieure ou égal à 10/20.
-"Organisation du parcours de la licence
-"Dans le cadre du L.M.D, la licence sanctionne un parcours cohérent de formation
-"sur 6 semestres, c’est-à-dire un parcours qui s’étale sur 3 années. L’obtention du
-"diplôme de licence est validée pour 180 crédits.
-"Le cursus de la licence est constitué d’un ensemble cohérent d’Unités d’Enseignant
-"(UE) articulées selon une logique de progression, d’orientation puis de spécialisation,
-"prenant en compte la diversité des publics et leurs besoins et le projet professionnel
-"et personnel de l’étudiant.
-"Il y a deux types de licences :
-"– Une licence à option dite « professionnalisante » consacrée par un diplôme de licence
-"permettant une insertion directe dans le monde de l’emploi ; cette licence est destinée
-"à ceux qui veulent faire une courte formation.
-"– Une licence « académique » consacrée par un diplôme de licence permettant un accès
-"direct à des études universitaires plus longues et plus spécialisées « Master »
-"Organisation du parcours du Master
-"Le Master est le deuxième diplôme ou grade du cycle d’enseignement supérieur
-"conduisant aux études doctorales ou à une activité professionnelle de haut niveau.
-"L’accès au Master se fait après obtention du grade de licence. Il est donc accessible
-"à tout étudiant détenteur d’une licence « académique ».
-"Le parcours de formation au sein d’un Master est conçu comme un ensemble cohérent et
-"continu de 4 semestres. Les deux premiers semestres (60 crédits) doivent permettre
-"une progression maîtrisée vers une formation à la recherche ou une spécialisation
-"professionnelle lors des deux derniers semestres (60 crédits).
-"Le Doctorat"
-"La formation doctorale d’une durée minimale de trois (03) années devra assurer"
-"à la fois un approfondissement des connaissances dans la spécialité et une"
-"formation par et pour la recherche. Cette formation est sanctionnée par un"
-"diplôme de Doctorat après soutenance d’une thèse devant un jury habilité."
+        <![CDATA[ <p>
+    La réforme LMD (pour « Licence-Master-Doctorat ») désigne un ensemble de mesures modifiant le système d’enseignement supérieur
+    pour l’adapter aux standards internationaux. Elle met en place principalement une architecture basée sur trois grades:
+    <ul>
+    <li> licence, master et doctorat </li>
+    <li> une organisation des enseignements en semestres et unités d’enseignement </li>
+    <li>la mise en œuvre des crédits et par la délivrance d’une annexe descriptive au diplôme </li>
+    </ul>
+    Les textes fondateurs de cette réforme sont parus en 2002, mais celle-ci s’est étalée sur plusieurs années, et en 2011 certaines
+    formations sont encore en train d’être modifiées.
+</p>
+<p>
+
+    <h4>Objectifs</h4>
+    Les objectifs de l’enseignement supérieur sont:
+    <ul>
+        <li>l’organisation de l’offre de formation sous la forme de « parcours types de formation », ensembles cohérents d’unités
+            d’enseignement organisant des progressions pédagogiques adaptées, préparant l’ensemble des diplômes nationaux
+        </li>
+        <li>
+            l’intégration, en tant que de besoin, des approches pluridisciplinaires et la facilitation de l’amélioration de la qualité
+            pédagogique, de l’information, de l’orientation et de l’accompagnement de l’étudiant
+        </li>
+
+        <li> le développement de la professionnalisation des études supérieures, la réponse aux besoins de formation continue
+            diplômante et la favorisation de la validation des acquis de l’expérience, en relation avec les milieux économiques
+            et sociaux;
+        </li>
+        <li>
+            l’encouragement à la mobilité, l’accroissement de l’attractivité des formations, au niveau national et international, et
+            la possibilité de la prise en compte et de la validation des périodes de formation;
+        </li>
+        <li> l’intégration de l’apprentissage de « compétences transversales » telles que la maîtrise des langues vivantes étrangères
+            et celle des outils informatiques;
+        </li>
+        <li> la facilitation de la création d’enseignements par des méthodes faisant appel aux technologies de l’information et
+            de la communication et du développement de l’enseignement à distance.
+        </li>
+    </ul>
+</p>
+<p>
+    <h4>Les grades</h4>
+    Abandonnant l’ancienne organisation en trois cycles universitaires de deux ans chacun(DEUG, Licence et Troisième cycle: DESA,
+    DESS) et d’un Doctorat d’Etat, le système LMD reconnaît trois diplômes et grades nationaux:
+    <ul>
+        <li>Licence(L): diplôme de niveau bac+3 (soit fondamentale, soit professionnelle)</li>
+        <li>Master(M): diplôme de niveau bac+5 (soit fondamental préparant à la recherche, soit spécialisé) </li>
+        <li> Doctorat(D): diplôme de niveau bac+8 sanctionnant un travail de recherche dans le cadre d’une thèse.</li>
+    </ul>
+
+    A noter que parallèlement à ces trois diplômes dits nationaux, les établissements d’enseignement supérieur peuvent délivrer
+    des diplômes spécifiques dits d’université ou d’établissement qui correspondent à un domaine restreint, à vocation temporaire
+    ou professionnelle. Le mode d’accès, la durée des études, le mode d’évaluation peuvent être très différents d’un établissement
+    à l’autre.
+</p>
+<p>
+
+    <h4>Les unités d’enseignement et les crédits</h4>
+    Les parcours de formations sont découpés en « unités d’enseignement ». Chacune a une valeur définie en crédits. Le nombre
+    de crédits par unité d’enseignement est défini sur la base de la « charge totale de travail requise de la part de l’étudiant
+    pour obtenir l’unité ». La charge totale de travail tient compte de l’ensemble de l’activité exigée de l’étudiant et,
+    notamment, du volume et de la nature des enseignements dispensés, du travail personnel requis, des stages, mémoires,
+    projets et autres activités. Afin d’assurer la « comparaison » et le « transfert » des parcours de formation au niveau
+    international, une référence commune est fixée correspondant à l’acquisition, après le baccalauréat, de 180 crédits pour
+    le niveau licence et de 300 crédits pour le niveau master. Cette référence permet de définir la valeur en crédits de
+    l’ensemble des diplômes. Les crédits sont obtenus lorsque les conditions de validation définies par les odalités de contrôle
+    de connaissances et aptitudes propres à chaque type d’études sont satisfaites.
+</p>
+<p>
+    <h4>L’annexe descipriptive </h4>
+    Ce système de crédit est accompagné de la délivrance d’une annexe descriptive aux diplômes. L’annexe descriptive est le supplément
+    au diplôme, c’est–à-dire un document joint à un diplôme d’études supérieures qui vise à améliorer la « transparence »
+    internationale et à faciliter la reconnaissance académique et professionnelle des qualifications(diplômes, acquis universitaires
+    etc..). Il est destiné à décrire la nature, le niveau, le contexte, le contenu et le statut des études accomplies avec
+    succès par l’étudiant. En clair, le supplément au diplôme (annexe descriptive) n’est pas un curriculum vitae, ni un relevé
+    de notes mais une description précise du cursus de l’étudiant et des compétences acquises pendant la période d’études.
+</p>
+<p>
+    <h4>Un dispositif d’accompagnement et d’evaluation</h4>
+    L’étudiant bénéficiera d’un accompagnement pédagogique tout au long de son parcours pour l’aider à définir ses objectifs
+    de formation et à les mettre en œuvre. Ainsi, l’étudiant pourra construire son parcours de formation et son projet professionnel
+    sur la base de parcours type. Il pourra le modifier ou le faire évoluer par le choix d’options. Des passerelles existeront
+    entre les différents parcours, c’est-à-dire il y aura possibilité pour l’étudiant d’évoluer dans ses choix ou de se réorienter
+    d’une filière vers une autre ou d’un domaine vers un autre tout en conservant les acquis des parcours antérieurs. En
+    outre, il y aura un système d’évaluation semestriel(un examen à la fin de chaque semestre) et pour chaque Unité d’Enseignement,
+    il est prévu un examen final, en plus des contrôles continus, des contrôles de TD, de TP, de l’évaluation du travail
+    personnel, des travaux de recherche, des exposés, des interrogations orales ou écrites etc. Enfin, un examen de la deuxième
+    chance (double session) sera accordé à l’étudiant n’ayant pas obtenu une moyenne supérieure ou égal à 10/20.
+</p>
+<p>
+    <h4>Organisation du parcours de la licence</h4>
+    Dans le cadre du L.M.D, la licence sanctionne un parcours cohérent de formation sur 6 semestres, c’est-à-dire un parcours
+    qui s’étale sur 3 années. L’obtention du diplôme de licence est validée pour 180 crédits. Le cursus de la licence est
+    constitué d’un ensemble cohérent d’Unités d’Enseignant (UE) articulées selon une logique de progression, d’orientation
+    puis de spécialisation, prenant en compte la diversité des publics et leurs besoins et le projet professionnel et personnel
+    de l’étudiant. Il y a deux types de licences :
+    <ul>
+        <li>Une licence à option dite « professionnalisante » consacrée par un diplôme de licence permettant une insertion directe
+            dans le monde de l’emploi ; cette licence est destinée à ceux qui veulent faire une courte formation.
+        </li>
+        <li> Une licence « académique » consacrée par un diplôme de licence permettant un accès direct à des études universitaires
+            plus longues et plus spécialisées « Master »
+        </li>
+    </ul>
+</p>
+<p>
+    <h4>Organisation du parcours du Master</h4>
+    Le Master est le deuxième diplôme ou grade du cycle d’enseignement supérieur conduisant aux études doctorales ou à une activité
+    professionnelle de haut niveau. L’accès au Master se fait après obtention du grade de licence. Il est donc accessible
+    à tout étudiant détenteur d’une licence « académique ». Le parcours de formation au sein d’un Master est conçu comme
+    un ensemble cohérent et continu de 4 semestres. Les deux premiers semestres (60 crédits) doivent permettre une progression
+    maîtrisée vers une formation à la recherche ou une spécialisation professionnelle lors des deux derniers semestres (60
+    crédits).
+</p>
+<p>
+    <h4>Le Doctorat</h4>
+    La formation doctorale d’une durée minimale de trois (03) années devra assurer à la fois un approfondissement des connaissances
+    dans la spécialité et une formation par et pour la recherche. Cette formation est sanctionnée par un diplôme de Doctorat
+    après soutenance d’une thèse devant un jury habilité.
+</p>]]>
     </string>
 
     <string name="soc">
-    "Les offres de services sociaux de L’université"
-    "Le logement\n"
-    "L’université de Thiès dispose de cinq principaux sites d’hébergement"
-    "Le site principal situé au niveau de l’UFR SES."
-    "Le site de l’école des monitrices de Thiès sur la route de Khombole dans le village de Peycouck."
-    "Le site de l’auberge «  chez Laurent » situé sur la route de saint–louis."
-    "Les sites de l’ISFAR et de l’ENSA."
-    "La restauration"
-    "L’université dispose d’un restaurant central à l’UFR SES en plus des restaurants de l’ENSA"
-    "et de L’ISFAR à Bambey gérés par le COUD(le Centre des Œuvres Universitaires de Dakar)."
-    "Les services sanitaires"
-    "L’université dispose de ses structures de santé et peut en cas de besoins solliciter les"
-    "structures hospitalières  de Thiès\n."
-    "Les services du sport et de la culture"
-    "L’université dispose d’un service des sports et de la  culture avec différentes disciplines"
-    "dont le football et  le basket et
-    "dispose pour la promotion de cette importante activité d’un consultant en sport et culture."
-    "L’Orientation-Conseils"
-    "En dehors des missions classiques liées à l’orientation, l’université dans le cadre des CDP"
-    "(Contrat de performance) dispose également d’un consultant en conseil –orientation qui"
-    "accompagne et assiste les étudiants  et tous les acteurs du système universitaires interne et"
-    "externe."
-    "Ce consultant travail avec la DEPVU et plus précisément  avec le bureau accueil information,"
-    "orientation(BAIO)  du service central de la scolarité  que nous voulons transformer en  un"
-    "Bureau Universitaire d’Information et d’Orientation (BUIO) du fait de sa transversalité"
+    <![CDATA[ <p>
+    <h4>Le logement</h4>
+    L’université de Thiès dispose de cinq principaux sites d’hébergement
+    <ul>
+        <li>Le site principal situé au niveau de l’UFR SES.</li>
+        <li> site de l’école des monitrices de Thiès sur la route de Khombole dans le village de Peycouck. </li>
+        <li> site de l’auberge « chez Laurent » situé sur la route de saint–louis. </li>
+        <li> sites de l’ISFAR et de l’ENSA.</li>
+    </ul>
+</p>
+<p>
+    <h4>La restauration </h4>
+    L’université dispose d’un restaurant central à l’UFR SES en plus des restaurants de l’ENSA et de L’ISFAR à Bambey gérés par
+    le COUD(le Centre des Œuvres Universitaires de Dakar).
+</p>
+<p>
+    <h4>Les services sanitaires </h4>
+    L’université dispose de ses structures de santé et peut en cas de besoins solliciter les structures hospitalières de Thiès.
+</p>
+<p>
+    <h4>Les services du sport et de la culture</h4>
+    L’université dispose d’un service des sports et de la culture avec différentes disciplines dont le football et le basket
+    et dispose pour la promotion de cette importante activité d’un consultant en sport et culture.
+
+</p>
+<p>
+    <h4>L’Orientation-Conseils</h4>
+    En dehors des missions classiques liées à l’orientation, l’université dans le cadre des CDP (Contrat de performance) dispose
+    également d’un consultant en conseil –orientation qui accompagne et assiste les étudiants et tous les acteurs du système
+    universitaires interne et externe. Ce consultant travail avec la DEPVU et plus précisément avec le bureau accueil information,
+    orientation(BAIO) du service central de la scolarité que nous voulons transformer en un Bureau Universitaire d’Information
+    et d’Orientation (BUIO) du fait de sa transversalité
+</p> ]]>
     </string>
     <string name="baiu">
-    "Le Bureau Universitaire d’Information et d’Orientation (BUIO)"
-    "Présentation"
-    "Lorsqu’on est étudiant et que l’on débarque dans une nouvelle ville pour une année d’étude, ce"
-    "n’est pas toujours simple d’avoir des repères."
-    "Le  Bureau Universitaire d’Information et d’Orientation( BUIO) ou Bureau Accueil, Information"
-    "et Orientation( BAIO)vous  propose alors, au travers de ces rubriques (accueil, santé,"
-    "logement, formation,  transport, multimédia, job/stage, sport, culture, restauration) des plans"
-    "des différents sites, une sélection de trucs et astuces pour une bonne intégration."
-    "Le BAIO ou BUIO accueille les étudiants, les jeunes diplômés, les publics en reprise d'études"
-    "et les lycéens, pour répondre à toutes les questions relatives à l'orientation."
-    "Mission du BUIO"
-    "Ce bureau est chargé:"
-    "-d'informer les futurs étudiants;"
-    "-d'accueillir les nouveaux étudiants;"
-    "-d'informer et orienter les étudiants tout au long de leur cursus."
-    "Il contribue à l’orientation de nouveaux bacheliers ou à la réorientation des étudiants dans"
-    "les différents parcours."
-    "Il identifier les parcours de formations, informe les étudiants sur les poursuites"
-    "d'études, les débouchés ou les possibilités de réorientation."
-    "Il dispose d’un Consultant en Conseil-Orientation qui peut vous accompagner dans vos processus"
-    "d’étude et de choix vocationnels et vous offre une assistance psychopédagogique à chaque fois"
-    "que de besoin."
-    "Enfin, le Bureau informe les futurs bacheliers(les élèves de classes de terminales des lycées)"
-    "sur les offres de formations(intervention dans les lycées, les CIO, participation aux salons"
-    "d'information etc)."
-    "Dans ce cas il anime des séances d’information et de vulgarisation des enseignements"
-    "universitaires  dans les lycées  de la ville et du Sénégal."
+    <![CDATA[ <p>
+    <!-- <h4>Le Bureau Universitaire d’Information et d’Orientation (BUIO)</h4> -->
+    <h4>Présentation</h4>
+    Lorsqu’on est étudiant et que l’on débarque dans une nouvelle ville pour une année d’étude, ce n’est pas toujours simple
+    d’avoir des repères. Le Bureau Universitaire d’Information et d’Orientation( BUIO) ou Bureau Accueil, Information et
+    Orientation( BAIO)vous propose alors, au travers de ces rubriques (accueil, santé, logement, formation, transport, multimédia,
+    job/stage, sport, culture, restauration) des plans des différents sites, une sélection de trucs et astuces pour une bonne
+    intégration. Le BAIO ou BUIO accueille les étudiants, les jeunes diplômés, les publics en reprise d \'études et les lycéens,
+    pour répondre à toutes les questions relatives à l \'orientation.
+</p>
+<p>
+    <h4> Mission du BUIO </h4>
+    Ce bureau est chargé:
+    <ul>
+        <li>d \'informer les futurs étudiants</li>
+        <li>d \'accueillir les nouveaux étudiants</li>
+        <li>d \'informer et orienter les étudiants tout au long de leur cursus </li>
+    </ul>
+    Il contribue à l’orientation de nouveaux bacheliers ou à la réorientation des étudiants dans les différents parcours. Il
+    identifier les parcours de formations, informe les étudiants sur les poursuites d \'études, les débouchés ou les possibilités
+    de réorientation. Il dispose d’un Consultant en Conseil-Orientation qui peut vous accompagner dans vos processus d’étude
+    et de choix vocationnels et vous offre une assistance psychopédagogique à chaque fois que de besoin. Enfin, le Bureau
+    informe les futurs bacheliers(les élèves de classes de terminales des lycées) sur les offres de formations(intervention
+    dans les lycées, les CIO, participation aux salons d \'information etc). Dans ce cas il anime des séances d’information
+    et de vulgarisation des enseignements universitaires dans les lycées de la ville et du Sénégal.
+</p> ]]>
     </string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -222,328 +241,407 @@
     <string name="searchview">recherche</string>
 
     <string name="def_univ">
-        "Missions et vision de L’université\n"
-        "L’Université de Thiès (UT) est un établissement d’enseignement supérieur créé en "
-        "janvier 2007 dans le cadre de la mise en œuvre de la carte universitaire du Sénégal. "
-        "Sa mission principale est de contribuer à la diversification de l’offre d’enseignement "
-        "supérieur au Sénégal, dans la sous-région et en Afrique.\n"
-        "La vision de l’UT est celle d’une université d’excellence au service du développement, "
-        "enracinée dans les valeurs qui fondent la nation sénégalaise et ouverte à l’environnement "
-        "international. Elle articule son attractivité à la pertinence et à la qualité de ses "
-        "enseignements, de sa recherche et des services offerts à la communauté."
-        "Cette vision s’appuie, enfin, sur des infrastructures et des équipements de qualité ainsi "
-        "que sur une communauté engagée.\n\n"
-        "L’Université de Thiès a pour missions de :\n\n"
-        "1.	contribuer à la diversification de l’offre de formation et de recherche universitaires "
-        "au Sénégal, en Afrique et dans le monde ;\n"
-        "2.	dispenser des formations de qualité, en conformité avec le système LMD "
-        "(Licence-Master-Doctorat) et adaptées aux besoins des marchés locaux, nationaux, régionaux "
-        "et internationaux en s’appuyant sur ses pôles phares ;\n"
-        "3.	impulser la recherche scientifique à travers des écoles doctorales adossées à des équipes "
-        "pluridisciplinaires, multi - institutionnelles et à des laboratoires de recherche contribuant "
-        "ainsi à la résolution des problèmes identifiés au niveau local, national, régional et "
-        "international ;\n"
-        "4.	participer au développement économique et social du Sénégal en général et de la région "
-        "de Thiès en particulier.\n\n"
-        "1-2-Composantes de L’Université\n\n"
-        "La particularité de l’Université de Thiès réside dans la diversité de sa composition. "
-        "Il s’agit, en effet, de la fédération de structures de formation et de recherche "
-        "déjà existantes et de structures nouvellement créées. Ainsi, l’Université de Thiès "
-        "regroupe en son sein les établissements d’enseignement supérieur suivants :\n\n"
-        "1.	l’Ecole Nationale Supérieure d’Agriculture (ENSA) ;\n"
-        "2.	l’Institut Supérieur de Formation Agricole et Rurale (ISFAR) ;\n"
-        "3.	l’Unité de Formation et de Recherche des Sciences Économiques et Sociales (UFR SES) ;\n"
-        "4.	l’Unité de Formation et de Recherche des Sciences Et Technologies (UFR SET) ;\n"
-        "5.	l’Unité de Formation et de Recherche des Sciences de la Santé (UFR SANTE) ;\n"
-        "6.	l’Unité de Formation et de Recherche des Sciences de l’ingénieur (UFR SI) ;\n\n"
-        "7.	l’Institut Universitaire de Technologie (IUT).\n\n"
-        "L’Université de Thiès a adopté le système LMD depuis 2007 pour ses nouvelles filières. "
-        "Les Ecoles et Instituts de formation d’ingénieurs continuent à délivrer des diplômes "
-        "d’ingénieurs mais peuvent également délivrer des licences et des masters professionnels. "
-        "L’UFR Santé délivre un diplôme de doctorat de médecine selon l’architecture du LMD, tandis "
-        "que les autres UFR délivrent à la fois des diplômes d’ingénieurs et/ou des diplômes "
-        "de Licence et de Master.\n\n"
-        "1-3-Gouvernance de L’Université\n\n"
-        "L’Université de Thiès est administrée, sous la tutelle du Ministre chargé de l’Enseignement "
-        "Supérieur et de la Recherche, par un Conseil d’Administration (CA), un Recteur et un "
-        "Conseil de Gestion(décret n° 2008-536).\n "
-        "Le Conseil d’Administration est présidé par un président nommé par décret n°2011-513.\n\n"
-        "A ces organes, sont adjointes les commissions suivantes:\n\n"
-        "	la Commission des Etudes et de la Vie Universitaire(CEVU) ;\n"
-        "	la Commission de la Recherche, de l’Innovation et de la Coopération (CRIC) ;\n"
-        "	la Commission Insertion Relations avec les Entreprises et Services à la communauté ;\n"
-        "	la Commission Suivi Evaluation ;\n"
-        "	la Commission Assurance Qualité ;\n"
-        "	la Commission chargée du Numérique et des TIC ;\n"
-        "	la Commission Pôles Technologiques et Incubateurs ;\n"
-        "	les Conseils d’établissements et Conseils pédagogiques d’Ecole, d’UFR et d’Instituts.\n\n"
-        "   En plus de ces organes statutaires, l’Université de Thiès s’est dotée de services centraux de "
-        "   gestion administrative, financière et pédagogique, à savoir :\n\n"
-        "1.	Secrétariat Général (SG) ;\n"
-        "2.	Direction des Ressources Humaines et de la Formation (DRHF) ;\n"
-        "3.	Direction des Affaires Financières (DAF) ;\n"
-        "4.	Direction des Etudes, de la Pédagogie et de la Vie universitaire (DEPVU) ;\n"
-        "5.	Bibliothèque centrale  \n"
-        "6.	Division de la Recherche (DR) ;\n"
-        "7.	Division de la Coopération internationale  (DCI);\n"
-        "8.	Division de l’Insertion et des Relations avec les Entreprises (DIRE) ;\n"
-        "9.	Service aux Etudiants ;\n"
-        "10. Service de la Communication ;\n"
-        "11. Bureau d’Etudes et de Services à la Société (BESS) ;\n"
-        "12. Direction du Système d’Information (DSI) ;\n"
-        "13. Service du Domaine, de la Maintenance et de l’Environnement.\n"
-
+        <![CDATA[<p>
+    <h4>Missions et vision de L’université </h4>
+    L’Université de Thiès (UT) est un établissement d’enseignement supérieur créé en janvier 2007 dans le cadre de la mise en
+    œuvre de la carte universitaire du Sénégal. Sa mission principale est de contribuer à la diversification de l’offre d’enseignement
+    supérieur au Sénégal, dans la sous-région et en Afrique. <br><br>
+    La vision de l’UT est celle d’une université d’excellence au
+    service du développement, enracinée dans les valeurs qui fondent la nation sénégalaise et ouverte à l’environnement international.
+    Elle articule son attractivité à la pertinence et à la qualité de ses enseignements, de sa recherche et des services
+    offerts à la communauté. Cette vision s’appuie, enfin, sur des infrastructures et des équipements de qualité ainsi que
+    sur une communauté engagée.<br> L’Université de Thiès a pour missions de :
+    <ol>
+        <li> contribuer à la diversification de l’offre de formation et de recherche universitaires au Sénégal, en Afrique et
+            dans le monde </li>
+        <li> dispenser des formations de qualité, en conformité avec le système LMD (Licence-Master-Doctorat) et adaptées aux
+            besoins des marchés locaux, nationaux, régionaux et internationaux en s’appuyant sur ses pôles phares </li>
+        <li> impulser la recherche scientifique à travers des écoles doctorales adossées à des équipes pluridisciplinaires, multi
+            - institutionnelles et à des laboratoires de recherche contribuant ainsi à la résolution des problèmes identifiés
+            au niveau local, national, régional et international </li>
+        <li> participer au développement économique et social du Sénégal en général et de la région de Thiès en particulier</li>
+    </ol>
+</p>
+<p>
+    <h4>Composantes de L’Université </h4>
+    La particularité de l’Université de Thiès réside dans la diversité de sa composition. Il s’agit, en effet, de la fédération
+    de structures de formation et de recherche déjà existantes et de structures nouvellement créées. Ainsi, l’Université
+    de Thiès regroupe en son sein les établissements d’enseignement supérieur suivants :
+    <ol>
+        <li> l’Ecole Nationale Supérieure d’Agriculture (ENSA) </li>
+        <li> l’Institut Supérieur de Formation Agricole et Rurale (ISFAR) </li>
+        <li> l’Unité de Formation et de Recherche des Sciences Économiques et Sociales (UFR SES) </li>
+        <li> l’Unité de Formation et de Recherche des Sciences Et Technologies (UFR SET) </li>
+        <li> l’Unité de Formation et de Recherche des Sciences de la Santé (UFR SANTE) </li>
+        <li> l’Unité de Formation et de Recherche des Sciences de l’ingénieur (UFR SI) </li>
+        <li> l’Institut Universitaire de Technologie (IUT) </li>
+    </ol>
+    L’Université de Thiès a adopté le système LMD depuis 2007 pour ses nouvelles filières. Les Ecoles et Instituts de formation
+    d’ingénieurs continuent à délivrer des diplômes d’ingénieurs mais peuvent également délivrer des licences et des masters
+    professionnels. L’UFR Santé délivre un diplôme de doctorat de médecine selon l’architecture du LMD, tandis que les autres
+    UFR délivrent à la fois des diplômes d’ingénieurs et/ou des diplômes de Licence et de Master.
+</p>
+<p>
+    <h4> Gouvernance de L’Université </h4>
+    L’Université de Thiès est administrée, sous la tutelle du Ministre chargé de l’Enseignement Supérieur et de la Recherche,
+    par un Conseil d’Administration (CA), un Recteur et un Conseil de Gestion(décret n° 2008-536). Le Conseil d’Administration
+    est présidé par un président nommé par décret n°2011-513.<br> A ces organes, sont adjointes les commissions suivantes:
+    <ul>
+        <li>la Commission des Etudes et de la Vie Universitaire(CEVU) </li>
+        <li>la Commission de la Recherche, de l’Innovation et de la Coopération (CRIC) </li>
+        <li>la Commission Insertion Relations avec les Entreprises et Services à la communauté </li>
+        <li>la Commission Suivi Evaluation </li>
+        <li>la Commission Assurance Qualité </li>
+        <li>la Commission chargée du Numérique et des TIC </li>
+        <li>la Commission Pôles Technologiques et Incubateurs </li>
+        <li>les Conseils d’établissements et Conseils pédagogiques d’Ecole, d’UFR et d’Instituts </li>
+    </ul>
+    En plus de ces organes statutaires, l’Université de Thiès s’est dotée de services centraux de gestion administrative, financière
+    et pédagogique, à savoir :
+    <ol>
+        <li>Secrétariat Général (SG) </li>
+        <li> Direction des Ressources Humaines et de la Formation (DRHF) </li>
+        <li> Direction des Affaires Financières (DAF) </li>
+        <li>Direction des Etudes, de la Pédagogie et de la Vie universitaire (DEPVU) </li>
+        <li>Bibliothèque centrale</li>
+        <li>Division de la Recherche (DR) </li>
+        <li>Division de la Coopération internationale (DCI) </li>
+        <li>Division de l’Insertion et des Relations avec les Entreprises (DIRE) </li>
+        <li>Service aux Etudiants </li>
+        <li>Service de la Communication </li>
+        <li>Bureau d’Etudes et de Services à la Société (BESS) </li>
+        <li>Direction du Système d’Information (DSI) </li>
+        <li>Service du Domaine, de la Maintenance et de l’Environnement </li>
+    </ol>
+</p>]]>
     </string>
     <string name="ses_text">
-    "L’UFR Sciences Economiques et Sociales(SES) offre des formations dans les domaines suivants:"
-    "sciences économiques et de gestion, lettre, langues."
-    "Pour le moment toutes les filières ouvertes n’ont mis sur place que des formations à finalités"
-    "licence."
-    "Remarque: Une filière dénommée création multimédia(C.M.) est logée dans cette UFR."
-    "La filière Management Informatisé des Organisation(M.I.O.)"
-    "Cette filière est ouverte aux bacheliers des séries S, T et L."
-    "Le recrutement est proposépar la commission d’admission de l’UFRaprès inscription à campusen."
-    "La durée de la formation est de six(6) semestres."
-    "Le diplôme délivré est dénommé Licence en Management Informatisé des Organisation(L.M.I.O.)\n"
-    "La filière Management du Tourisme et de l’Hôtellerie(M.T.H.)"
-    "Cette filière est ouverte aux bacheliers des séries S, T et L."
-    "Le recrutement est proposé par la commission d’admission de l’UFR après inscription à"
-    "campusen.sn."
-    "La durée de la formation est de six(06) semestres."
-    "Le diplôme délivré est dénommé Licence en Management du Tourisme et de l’Hôtellerie(L.M.T.H.)\n"
-    "La filière Langues Etrangères Appliquées(L.E.A.)"
-    "Cette filière est ouverte aux bacheliers des séries L."
-    "Le recrutement est proposé par la commission d’admission de l’UFR après inscription à"
-    "campusen.sn"
-    "La durée de la formation est de six(06) semestres."
-    "Le diplôme délivré est dénommé : Licence en Langues  Etrangères Appliquées(L.E.A.)\n"
-    "La filière Sciences Economiques et de Gestion(S.E.G.)"
-    "Cette filière est ouverte aux bacheliers des séries S, T et L. Le recrutement est proposé"
-    "par la commission d’admission de l’UFR après inscription à campusen.sn."
-    "La durée de la formation est de six(06) semestres."
-    "Le diplôme délivré est dénommé Licence en Sciences Economiques et de Gestion (S.E.G.)\n"
-    "La filière Création Multimédia(C.M.)"
-    "Cette filière est ouverte aux étudiants qui ont validé les quatre(04) premiers semestres "
-    "du cycle de la Licence(version LMD) ou qui ont un diplôme équivalent correspondant "
-    "à Bac + 2 ans. Le recrutement est proposé par la commission d’admission de l’UFR."
-    "La durée de la formation est de deux(02) semestres."
-    "Elle conduit à un diplôme dénommé :Licence Professionnelle en Création Multimédia(L.P.C.M)."
+        <![CDATA[ <p>
+    L’UFR Sciences Economiques et Sociales(SES) offre des formations dans les domaines suivants:
+    <ul>
+        <li>sciences économiques et de gestion</li>
+        <li>lettre </li>
+        <li>langues</li>
+    </ul>
+    Pour le moment toutes les filières ouvertes n’ont mis sur place que des formations à finalités licence.
+    <br><br>
+    <u>Remarque:</u><br> une filière dénommée création multimédia(C.M.) est logée dans cette UFR.
+
+</p>
+<p>
+    <h4>La filière Management Informatisé des Organisation(M.I.O)</h4>
+    Cette filière est ouverte aux bacheliers des séries S, T et L. Le recrutement est proposépar la commission d’admission de
+    l’UFRaprès inscription à campusen. La durée de la formation est de six(6) semestres. Le diplôme délivré est dénommé Licence
+    en Management Informatisé des Organisation(L.M.I.O)
+</p>
+<p>
+    <h4>La filière Management du Tourisme et de l’Hôtellerie(M.T.H.)</h4>
+    Cette filière est ouverte aux bacheliers des séries S, T et L. Le recrutement est proposé par la commission d’admission de
+    l’UFR après inscription à campusen.sn. La durée de la formation est de six(06) semestres. Le diplôme délivré est dénommé
+    Licence en Management du Tourisme et de l’Hôtellerie(L.M.T.H.)
+</p>
+<p>
+    <h4>La filière Langues Etrangères Appliquées(L.E.A.)</h4>
+    Cette filière est ouverte aux bacheliers des séries L. Le recrutement est proposé par la commission d’admission de l’UFR
+    après inscription à campusen.sn La durée de la formation est de six(06) semestres. Le diplôme délivré est dénommé : Licence
+    en Langues Etrangères Appliquées(L.E.A.)
+</p>
+<p>
+    <h4> La filière Sciences Economiques et de Gestion(S.E.G.) </h4>
+    Cette filière est ouverte aux bacheliers des séries S, T et L. Le recrutement est proposé par la commission d’admission de
+    l’UFR après inscription à campusen.sn. La durée de la formation est de six(06) semestres. Le diplôme délivré est dénommé
+    Licence en Sciences Economiques et de Gestion (S.E.G.)
+</p>
+<p>
+    <h4>La filière Création Multimédia(C.M.)</h4>
+    Cette filière est ouverte aux étudiants qui ont validé les quatre(04) premiers semestres du cycle de la Licence(version LMD)
+    ou qui ont un diplôme équivalent correspondant à Bac + 2 ans. Le recrutement est proposé par la commission d’admission
+    de l’UFR. La durée de la formation est de deux(02) semestres. Elle conduit à un diplôme dénommé :Licence Professionnelle
+    en Création Multimédia(L.P.C.M).
+</p> ]]>
     </string>
 <string name="text_set">
-    "L’UFR sciences et technologies(SET) offre des formations dans le domaine des sciences et"
-    "technologies."
-    "Les filières qui sont ouvertes jusqu’en 2011 sont les suivantes:"
-    "Mathématiques-Informatique (M.I.);"
-    "Génie informatique (G.I.) et Sciences de l'Eau et de l'Environnement(S.2E)."
-    "Pour le moment toutes ces filières n’offrent que le diplôme de licence."
-    "La filière Mathématiques-Informatique(M.I.)"
-    "Cette filière est ouverte aux bacheliers des séries S, T."
-    "Le recrutement est proposé par la commission d’admission de l’UFR après inscription à campusen.sn"
-    "La durée de la formation est de six(06) semestres."
-    "Le diplôme délivré est dénommé Licence en Mathématiques-Informatique(L.M.I).\n"
-    "La filière Génie Informatique(G.I.)"
-    "Cette filière est ouverte aux bacheliers des séries S, T. Le recrutement est proposé par"
-    "la commission d’admission de l’UFRaprès inscription à campusen.sn"
-    "La durée de la formation est de six(06) semestres."
-    "Le diplôme délivré est dénommé Licence en Génie Informatique(L.G.I.)\n"
-    "La filière en Sciences de l'Eau et de l'Environnement."
-    "Cette filière est ouverte aux bacheliers des séries S, T. Le recrutement est proposé par la"
-    "commission d’admission de l’UFR après inscription à campusen.sn"
-    "La durée de la formation est de six (6) semestres."
-    "Le diplôme délivré est dénommé Licence en Sciences de l'Eau et de l'Environnement(S.2E)."
+    <![CDATA[ <p>
+    L’UFR sciences et technologies(SET) offre des formations dans le domaine des sciences et technologies. Les filières qui sont
+    ouvertes jusqu’en 2011 sont les suivantes:
+    <ul>
+        <li>Mathématiques-Informatique (M.I.) </li>
+        <li>Génie informatique (G.I.) et Sciences de l \'Eau et de l \'Environnement(S.2E) </li>
+    </ul>
+    Pour le moment toutes ces filières n’offrent que le diplôme de licence.
+</p>
+<p>
+    <h4> La filière Mathématiques-Informatique(M.I.) </h4>
+    Cette filière est ouverte aux bacheliers des séries S, T. Le recrutement est proposé par la commission d’admission de l’UFR
+    après inscription à campusen.sn La durée de la formation est de six(06) semestres. Le diplôme délivré est dénommé Licence
+    en Mathématiques-Informatique(L.M.I).
 
+</p>
+<p>
+    <h4>La filière Génie Informatique(G.I.) </h4>
+    Cette filière est ouverte aux bacheliers des séries S, T. Le recrutement est proposé par la commission d’admission de l’UFRaprès
+    inscription à campusen.sn La durée de la formation est de six(06) semestres. Le diplôme délivré est dénommé Licence en
+    Génie Informatique(L.G.I.)
+
+</p>
+<p>
+    <h4>La filière en Sciences de l \'Eau et de l \'Environnement. </h4>
+    Cette filière est ouverte aux bacheliers des séries S, T. Le recrutement est proposé par la commission d’admission de l’UFR
+    après inscription à campusen.sn La durée de la formation est de six (6) semestres. Le diplôme délivré est dénommé Licence
+    en Sciences de l \'Eau et de l \'Environnement(S2E).
+</p> ]]>
 </string>
     <string name="si_text">
-    "L’UFR des sciences de l’ingénieur (SI)) offre des formations dans le domaine des sciences et"
-    "technologies. Ces formations sont spécialisées dans les mentions des sciences de l’ingénieur,"
-    "les filières sont les suivantes : génie civil, géotechnique, hydrogéologie et géomètre-"
-    "topographe.\n"
-    "La filière génie civil"
-    "Cette filière commence par le niveau L3 où les étudiants sont admis après avoir subi un test"
-    "d’entrée. Les études durent six (06) semestres et conduisent à l’obtention d’un diplôme"
-    "d’ingénieur en génie civil.\n"
-    "La filière géotechnique"
-    "Cette filière commence par le niveau L3 où les étudiants sont admis après avoir subi un test"
-    "d’entrée. Les études durent six (06) semestres et conduisent à l’obtention d’un diplôme"
-    "d’ingénieur en géotechnique.\n"
-    "La filière hydrogéologie"
-    "Cette filière commence par le niveau L3 où les étudiants sont admis après avoir subi un test"
-    "d’entrée. Les études durent six (06) semestres et conduisent à l’obtention "
-    "d’un diplôme d’ingénieur en hydrogéologie.\n"
-    "La filière géomètre-topographe"
-    "Cette filière commence par le niveau L3 où les étudiants sont admis après avoir subi un test"
-    "d’entrée. Les études durent six (06) semestres et conduisent à l’obtention d’un diplôme"
-    "d’ingénieur géomètre-topographe."
+    <![CDATA[ <p> L’UFR des <strong> sciences de l’ingénieur (SI) </strong> offre des formations dans le domaine des sciences et technologies.
+    Ces formations sont spécialisées dans les mentions des sciences de l’ingénieur. </p>
+<p>
+    Les filières sont les suivantes :
+    <ul>
+        <li>génie civil</li>
+        <li>géotechnique</li>
+        <li>hydrogéologie </li>
+        <li>géomètre-topographe</li>
+    </ul>
+</p>
+<p>
+    <h4>La filière génie civil</h4>
+    Cette filière commence par le niveau L3 où les étudiants sont admis après avoir subi un test d’entrée. Les études durent
+    six (06) semestres et conduisent à l’obtention d’un diplôme d’ingénieur en génie civil.
+</p>
+<p>
+    <h4>La filière géotechnique </h4>
+    Cette filière commence par le niveau L3 où les étudiants sont admis après avoir subi un test d’entrée. Les études durent
+    six (06) semestres et conduisent à l’obtention d’un diplôme d’ingénieur en géotechnique.
+</p>
+<p>
+    <h4>La filière hydrogéologie</h4>
+    Cette filière commence par le niveau L3 où les étudiants sont admis après avoir subi un test d’entrée. Les études durent
+    six (06) semestres et conduisent à l’obtention d’un diplôme d’ingénieur en hydrogéologie.
+</p>
+<p>
+    <h4>La filière géomètre-topographe </h4>
+    Cette filière commence par le niveau L3 où les étudiants sont admis après avoir subi un test d’entrée. Les études durent
+    six (06) semestres et conduisent à l’obtention d’un diplôme d’ingénieur géomètre-topographe.
+</p>]]>
     </string>
     <string name="sante_text">
-    "L’UFR des sciences de la santé(SANTE) offre des formations dans le domaine de la santé."
-    "Cette filière est ouverte aux bacheliers des séries scientifiques (S1 et S2). "
-    "Le recrutement se fait par tests. Pour le moment la filière médecine générale est la seule"
-    "formation ouverte."
-    "La durée de cette formation est de seize (16) semestres."
-    "Le diplôme délivré est dénommé Docteur en médecine."
+         <![CDATA[ <p>
+    L’UFR des sciences de la santé(SANTE) offre des formations dans le domaine de la santé. Cette filière est ouverte aux bacheliers
+    des séries scientifiques (S1 et S2). Le recrutement se fait par tests. Pour le moment la filière médecine générale est
+    la seule formation ouverte. La durée de cette formation est de seize (16) semestres. Le diplôme délivré est dénommé Docteur
+    en médecine.
+</p> ]]>
     </string>
     <string name="ept_text">
-    "L’Institut Universitaire de Technologies (IUT) offres des formations dan le domaine des"
-    "sciences et techniques. Ces études débouchent sur un diplôme universitaire de"
-    "technologies(D.U.T.) dans les filières suivantes:"
-    "génie civil (GC), génie électrique et informatique industrielle (GEII)."
-    "Ces études durent quatre (04) semestres et sont sanctionnées par un D.U.T."
-    "Les étudiants sont sélectionnés suivant un test."
-    "L’IUT abrite aussi une licence professionnelle en géomètre-topographe qui recrute des"
-    "professionnels et des étudiants pour une durée d’études de deux(02) semestres."
-    "Cette formation débouche sur une licence professionnelle en géomètre-topographe."
-    "Le recrutement se fait sur examen de dossier selon des critères bien définis."
+        <![CDATA[ <p>
+    L’Institut Universitaire de Technologies (IUT) offres des formations dan le domaine des sciences et techniques. Ces études
+    débouchent sur un <strong>diplôme universitaire de
+     technologies (D.U.T.) </strong> dans les filières suivantes:
+    <ul>
+        <li>génie civil (GC) </li>
+        <li> génie électrique </li>
+        <li>informatique industrielle (GEII) </li>
+    </ul>
+    Ces études durent quatre (04) semestres et sont sanctionnées par un D.U.T.
+    <br> Les étudiants sont sélectionnés suivant un test.
+    <br> L’IUT abrite aussi une licence professionnelle en géomètre-topographe qui recrute des professionnels et des étudiants
+    pour une durée d’études de deux(02) semestres. Cette formation débouche sur une <strong>licence professionnelle en géomètre-topographe </strong>.
+    Le recrutement se fait sur examen de dossier selon des critères bien définis.
+</p> ]]>
     </string>
     <string name="ensa_text">
-    "L’Université de Thiès ne compte qu’une seule école supérieure :"
-    "il s’agit de l’Ecole Nationale Supérieure Agricole (ENSA). "
-    "Cette école supérieure est spécialisée dans le domaine des sciences agronomiques. "
-    "Elle forme des ingénieures de conception en cinq ans dans le domaine suscité."
-    "L’Ecole National des Sciences Agronomiques offre des formations dans le domaine "
-    "des sciences agronomiques. Elle forme des ingénieurs de conception dans les spécialités"
-    "suivantes : production végétale ; production animale, économie rurale, génie rurale et "
-    "foresterie."
-    "Les études de la filière ingénieur durent dix (10) semestres et sont sanctionnées "
-    "par un diplôme d’ingénieur. L’entrée à cette filière d’ingénieur se fait par concours."
-    "Les autres études se conforment au système LMD et débouchent sur deux master professionnels en:"
-    "foresterie et environnement ; chaine de valeur en entrepreneuriat agro-alimentaire."
-    "L’admission est prononcée par une commission de sélection qui statue sur les dossiers présentés"
-    "par les étudiants selon des critères bien définis."
+        <![CDATA[ <p>
+    L’Université de Thiès ne compte qu’une seule école supérieure, il s’agit de l’Ecole Nationale Supérieure Agricole (ENSA).
+    Cette école supérieure est spécialisée dans le domaine des sciences agronomiques. Elle forme des <strong>ingénieures de conception </strong>    cinq ans dans le domaine suscité. L’Ecole National des Sciences Agronomiques offre des formations dans le domaine des
+    <strong>sciences agronomiques</strong>.
+</p>
+<p>
+    Elle forme des ingénieurs de conception dans les spécialités suivantes :
+    <ul>
+        <li>production végétale</li>
+        <li>production animale</li>
+        <li>économie rurale</li>
+        <li>génie rurale et foresterie</li>
+    </ul>
+</p>
+<p>
+    Les études de la filière ingénieur durent dix (10) semestres et sont sanctionnées par un diplôme d’ingénieur. L’entrée à
+    cette filière d’ingénieur se fait par concours. Les autres études se conforment au système LMD et débouchent sur deux
+    master professionnels en:
+    <ul>
+        <li>foresterie et environnement </li>
+        <li> chaine de valeur en entrepreneuriat agro-alimentaire </li>
+    </ul>
+    L’admission est prononcée par une commission de sélection qui statue sur les dossiers présentés par les étudiants selon des
+    critères bien définis.
+</p> ]]>
     </string>
     <string name="isfar_text">
-   "L’Institut Supérieur de Formation Agricole et Rurale offre des formations dans le domaine des"
-   "sciences agronomiques. Il forme des ingénieurs de travaux agricoles(I.T.A.) dans les"
-   "spécialités suivantes : production végétale, production animale, production forestières."
-   "Ces études durent six (06) semestres et sont sanctionnées par un diplôme d’ingénieur de travaux"
-   "agricoles."
-   "ISFAR propose aussi une formation qui débouche sur une licence professionnelle en conseil"
-   "agricole et rural (C.A.R.). Certains modules de cette licence se font en formation continuée et"
-   "s’adressent aux professionnels du monde rural."
+   <![CDATA[ <p>
+    L’Institut Supérieur de Formation Agricole et Rurale offre des formations dans le domaine des
+    <strong>sciences agronomiques</strong>. Il forme des ingénieurs de travaux agricoles(I.T.A.) dans les spécialités suivantes
+    :
+    <ul>
+        <li> production végétale </li>
+        <li>production animale </li>
+        <li>production forestières </li>
+    </ul>
+    Ces études durent six (06) semestres et sont sanctionnées par un diplôme d’ingénieur de travaux agricoles.
+</p>
+<p>
+    ISFAR propose aussi une formation qui débouche sur une licence professionnelle en conseil agricole et rural (C.A.R.). Certains
+    modules de cette licence se font en formation continuée et s’adressent aux professionnels du monde rural.
+</p> ]]>
     </string>
     <string name="insc_etr">
-    "Bacheliers de nationalitéétrangère"
-    "Les bacheliers étrangers doivent suivre ces  cinq étapes."
-    "Etape 1:"
-    "Je fais parvenir à l’Université de Thiès avant le 15 Octobre de l’année en cours,"
-    "-un dossier de demande d’admission comprenant les pièces suivantes:"
-	"-une demande d’admission adressée au Recteur, en précisant 3 choix par ordre de priorité;"
-	"-une copie certifiée conforme à l’attestation du BAC;"
-	"-une copie certifiée conforme au relevé de notes;
-	"-les bulletins de composition des classes première et terminale;"
-	"-un certificat de nationalité."
-    "Etape 2:"
-    "-Je m’informe à partir du 20 Octobre, sur la suite réservée à ma demande."
-    "Etape 3:
-    "-Si je suis autorisé à m’inscrire, je me présente au Service de la Scolarité de l’Université de"
-    "Thiès muni:\n"
-    "   -de l’original et la copie certifiée conforme de l’attestation du Bac."
-    "   -de l’original et la copie certifiée conforme du relevé du Bac."
-    "   -d’une pièce d’identification (carte nationale d’identité, passeport, permis de conduire)"
-    "   et de la copie légalisée de cette pièce."
-    "   -d’un extrait de naissance datant moins de 1an."
-    "   -du montant des droits d’inscription administrative qui s’élève à 150 000 F CFA (cent cinquante"
-    "mille francs)."
-    "   de la pièce certifiant le paiement de l’assurance annuelle de l’étudiant."
-    "   d’une pièce confirmant le paiement des droits exigibles par le Centre des Œuvres Universitaires"
-    "qui s’élève annuellement à 250 000 F CFA( deux cent cinquante mille francs)."
-    "Etape 4:"
-    "-Je récupère ma carte d’étudiant dés qu’elle est disponible et me présente au service"
-    "pédagogique de mon UFR, école ou institut pour l’inscription pédagogique obligatoire.\n"
-    "Etape 5:"
-    "-Je me rends à la Bibliothèque Centrale pour les modalités d’inscription annuelle et"
-    "d’obtention de la  carte."
-    "NB: Certains établissements font des tests pour l’admission des bacheliers, c’est le cas de:"
-    "l’UFR des Sciences de la Santé, l’UFR des Sciences de l’Ingénieur et l’Institut Universitaire "
-    "de Technologie."
+    <![CDATA[ <p>
+     Les bacheliers étrangers doivent suivre ces  cinq étapes.
+     <h4>Etape 1:</h4>
+     Je fais parvenir à l’Université de Thiès avant le <strong>15 Octobre</strong> de l’année en cours,
+     un dossier de demande d’admission comprenant les pièces suivantes:
+     <ul>
+	 <li>une demande d’admission adressée au Recteur, en précisant 3 choix par ordre de priorité </li>
+	 <li>une copie certifiée conforme à l’attestation du BAC </li>
+	 <li> copie certifiée conforme au relevé de notes </li>
+	 <li>les bulletins de composition des classes première et terminale </li>
+	 <li>un certificat de nationalité</li>
+     </ul>
+     <h4>Etape 2:</h4>
+     Je m’informe à partir du 20 Octobre, sur la suite réservée à ma demande.
+
+     <h4>Etape 3:</h4>
+     Si je suis autorisé à m’inscrire, je me présente au Service de la Scolarité de l’Université de
+     Thiès muni:
+        <ul>
+        <li>de l’original et la copie certifiée conforme de l’attestation du Bac  </li>
+        <li>de l’original et la copie certifiée conforme du relevé du Bac </li>
+        <li>d’une pièce d’identification (carte nationale d’identité, passeport, permis de conduire)
+        et de la copie légalisée de cette pièce </li>
+        <li>d’un extrait de naissance datant moins de 1an </li>
+        <li>du montant des droits d’inscription administrative qui s’élève à 150 000 F CFA (cent cinquante
+     mille francs) </li>
+        <li>de la pièce certifiant le paiement de l’assurance annuelle de l’étudiant </li>
+        <li>d’une pièce confirmant le paiement des droits exigibles par le Centre des Œuvres Universitaires
+     qui s’élève annuellement à 250 000 F CFA( deux cent cinquante mille francs)</li>
+        </ul>
+    <h4>Etape 4:</h4>
+     Je récupère ma carte d’étudiant dés qu’elle est disponible et me présente au service
+     pédagogique de mon UFR, école ou institut pour l’inscription pédagogique obligatoire.
+
+     <h4>Etape 5:</h4>
+     Je me rends à la Bibliothèque Centrale pour les modalités d’inscription annuelle et
+     d’obtention de la  carte.
+     <br><br>
+     <u>NB:</u> <br>
+     Certains établissements font des tests pour l’admission des bacheliers, c’est le cas de:
+     l’UFR des Sciences de la Santé, l’UFR des Sciences de l’Ingénieur et l’Institut Universitaire
+     de Technologie.
+     </p> ]]>
 
     </string>
     <string name="insc_sen">
-    "Je suis un nouveau bachelier sénégalais,\n"
-    "voici les étapes que je dois suivre pour une éventuelle admission et une inscription "
-    "à l’Université de Thiès."
-    "Etape 1:\n"
-    "j’effectue mon inscription en ligne dans le site CAMPUSEN(www.campusen.sn) créé à cet effet"
-    "sous la supervision de la DGES (Direction Générale de l’Enseignement Supérieur)."
-    "Etape 2:\n"
-    "Je consulte régulièrement le site Internet de l’Université de Thiès (http://www.univ-thies.sn),"
-    "ou m’informe de la sortie des listes des nouveaux sélectionnés à la scolarité centrale de l’UT"
-    "ou à ses différents établissements que j’ai choisis."
-    "Etape 3:\n"
-    "si je suis admis, Je me présente au service de la scolarité centrale de l’Université muni des"
-    "pièces suivantes :\n"
-    "    copie certifiée conforme à l’original de l’attestation de réussite au Baccalauréat;\n"
-    "    copie certifiée conforme à l’original du relevé de notes au BAC;\n"
-    "    copie certifiée conforme à l’original d’une pièce d’identification(carte nationale d’identité,"
-    "    passeport, permis de conduire)\n;
-    "    extrait de naissance datant moins de 1an\n;
-    "    3 photos d’identité récentes et claires (Prénoms et Nom ou verso);\n"
-    "    une quittance de l’agence comptable de l’Université de Thiès montrant le paiement d’un montant"
-    "    fixe des frais d’inscription administrative\n;
-    "    une pièce montrant le paiement de l’assurance annuelle de l’étudiant.\n"
-    "Je remplis un formulaire d’inscription disponible  au Bureau Universitaire d’Information et"
-    "d’Orientation ou bureau d’accueil, d’orientation et d’information de la Scolarité Centrale."
-    "Je montre une pièce montrant que j’ai passé la visite médicale obligatoire auprès de la structure"
-    "médicale habilitée."
-    "Etape 4:\n"
-    "Je récupère ma carte d’étudiant dés qu’elle est disponible et je me présente au service"
-    "pédagogique de mon UFR, école ou Institut pour l’inscription pédagogique obligatoire."
-    "Etape 5:\n"
-    "Je me rends à la Bibliothèque Universitaire pour les modalités d’inscription annuelle et"
-    "d’obtention de  la carte."
-    "NB : l’original de l’attestation ou celui du relevé de notes du Bac peuvent être"
-    "éventuellement exigés pour vérification de l’authenticité des documents."
-    "En somme vous devez respecter les trois inscriptions suivantes:"
-    "une inscription administrative auprès de la scolarité centrale:
-    "c’est cette inscription qui vous permet de dire que vous appartenez à la communauté"
-    "estudiantine de l’Université de Thiès\n"
-    "une inscription pédagogique  auprès de votre établissement:"
-    "cette inscription est une sorte de participation au bon fonctionnement de votre établissement"
-    "du point de vue pédagogique.\n"
-    "Une inscription au niveau de la bibliothèque centrale:"
-    "cette inscription vous permet d’utiliser les services que cette bibliothèque met"
-    "à votre disposition."
+    <![CDATA[ <p>
+    Je suis un nouveau bachelier sénégalais, voici les étapes que je dois suivre pour une éventuelle admission et une inscription
+    à l’Université de Thiès.
+    <h4> Etape 1: </h4>
+    j’effectue mon inscription en ligne dans le site CAMPUSEN(www.campusen.sn) créé à cet effet sous la supervision de la DGES
+    (Direction Générale de l’Enseignement Supérieur).
+
+    <h4>Etape 2:</h4>
+    Je consulte régulièrement le <a href="http://www.univ-thies.sn">site Internet </a> de l’Université de Thiès, ou m’informe
+    de la sortie des listes des nouveaux sélectionnés à la scolarité centrale de l’UT ou à ses différents établissements
+    que j’ai choisis.
+    <h4>Etape 3:</h4>
+    Si je suis admis, Je me présente au service de la scolarité centrale de l’Université muni des pièces suivantes :
+    <ul>
+        <li>copie certifiée conforme à l’original de l’attestation de réussite au Baccalauréat</li>
+        <li>copie certifiée conforme à l’original du relevé de notes au BAC</li>
+        <li>copie certifiée conforme à l’original d’une pièce d’identification(carte nationale d’identité, passeport, permis
+            de conduire) </li>
+        <li>extrait de naissance datant moins de 1an </li>
+        <li>3 photos d’identité récentes et claires (Prénoms et Nom ou verso) </li>
+        <li>une quittance de l’agence comptable de l’Université de Thiès montrant le paiement d’un montant fixe des frais d’inscription
+            administrative </li>
+        <li>une pièce montrant le paiement de l’assurance annuelle de l’étudiant </li>
+    </ul>
+    Je remplis un formulaire d’inscription disponible au Bureau Universitaire d’Information et d’Orientation ou bureau d’accueil,
+    d’orientation et d’information de la Scolarité Centrale.
+    <br> Je montre une pièce montrant que j’ai passé la visite médicale obligatoire auprès de la structure médicale habilitée.
+    <h4>Etape 4:</h4>
+    Je récupère ma carte d’étudiant dés qu’elle est disponible et je me présente au service pédagogique de mon UFR, école ou
+    Institut pour l’inscription pédagogique obligatoire.
+
+    <h4>Etape 5:</h4>
+    Je me rends à la Bibliothèque Universitaire pour les modalités d’inscription annuelle et d’obtention de la carte.
+    <br><br>
+    <u>NB:</u>
+    <br> L’original de l’attestation ou celui du relevé de notes du Bac peuvent être éventuellement exigés pour vérification
+    de l’authenticité des documents.
+    <br> En somme vous devez respecter les trois inscriptions suivantes:
+    <ul>
+        <li>une inscription administrative auprès de la scolarité centrale: c’est cette inscription qui vous permet de dire que
+            vous appartenez à la communauté estudiantine de l’Université de Thiès
+        </li>
+        <li>une inscription pédagogique auprès de votre établissement: cette inscription est une sorte de participation au bon
+            fonctionnement de votre établissement du point de vue pédagogique.
+        </li>
+        <li>Une inscription au niveau de la bibliothèque centrale: cette inscription vous permet d’utiliser les services que
+            cette bibliothèque met à votre disposition. </li>
+    </ul>
+</p> ]]>
     </string>
     <string name="cred_sys">
-     "LE SYSTEME DE CREDIT \n"
-     "Le crédit est la quantité déterminant la valeur d’une unité d’enseignement(UE), il traduit la"
-     "qualité de la charge de travail d’un étudiant. Un crédit équivaut à 20 heures de charge de"
-     "travail."
-     "La charge de travail d'un étudiant durant un semestre est estimée à 600 heures(cours magistraux,"
-     "travaux dirigés, travaux pratiques, séminaires, stages, travail personnel de l'étudiant(TPE))."
-     "Cette charge de travail correspond à 30 crédits. Il appartient à l'équipe pédagogique de "
-     "répartir ces 30 crédits(donc ces 600 heures) entre les différentes unités d'enseignements(UE)"
-     "qui composent le semestre. Cette équipe pédagogique répartit aussi le crédit alloué à chaque UE"
-     "entre les différents éléments constitutifs(e.c.). Cette répartition des 30 crédits du semestre"
-     "est présentée à l’étudiant sous forme de tableau appelé 'maquette pédagogique'."
+     <![CDATA[ <p>
+    Le crédit est la quantité déterminant la valeur d’une unité d’enseignement(UE), il traduit la qualité de la charge de travail
+    d’un étudiant. Un crédit équivaut à 20 heures de charge de travail.
+</p>
+<p>
+    La charge de travail d \'un étudiant durant un semestre est estimée à <stong>600 heures</stong> (cours magistraux, travaux dirigés, travaux
+    pratiques, séminaires, stages, travail personnel de l \'étudiant(TPE)). Cette charge de travail correspond à 30 crédits.
+    Il appartient à l \'équipe pédagogique de répartir ces 30 crédits(donc ces 600 heures) entre les différentes unités d
+    \'enseignements(UE) qui composent le semestre. Cette équipe pédagogique répartit aussi le crédit alloué à chaque UE entre
+    les différents éléments constitutifs(e.c.). Cette répartition des 30 crédits du semestre est présentée à l’étudiant sous
+    forme de tableau appelé \'maquette pédagogique \'.
+</p> ]]>
   </string>
-    <string name="validation" />
-    "Pour valider le grade de Licence, il faut valider les niveaux L1, L2 et L3."
-    "Puisque chacun de ces niveaux comprend 2 semestres, il faut donc les valider tous."
-    "Ainsi, si l'étudiant obtient 180 crédits (6*30 crédits), il a validé le grade de Licence."
-    "Pour valider le grade de Master, il faut valider les niveaux M1 et M2. Chacun de ces niveaux est"
-    "composé de deux semestres, donc il faut 120 crédits (4*30) pour prétendre au grade de Master."
-    "Pour valider le grade de Doctorat, il faut obtenir 180 crédits (6*30) "
-    "répartis entre les trois niveaux D1, D2 et D3."
-    "MODE DE PROMOTION AU SEIN D'UN GRADE"
-    "Dans le système LMD, l'idéal c'est de délibérer à la fin de chaque semestre pour donner"
-    "les statistiques sur la promotion des étudiants."
-    "Pour passer d'un semestre à un autre, l'étudiant doit valider :"
-    "- les UE (correspondant à 30 crédits) du premier semestre (passage de droit)"
-    "- ou 75% des UE du premier semestre correspondant à 23 crédits environs"
-    "(passage conditionnel)."
-    "Pour passer de L1 à L2, l'étudiant doit :"
-    "- valider les deux semestres de L1 (correspondant à 60 crédits) ; "
-    "c'est le principe du passage de droit ;"
-    "- ou valider 75% des UE de L1 (correspondant à 45 crédits) ; c’est le principe"
-    " du passage conditionnel."
-    "Pour passer de L2 à L3, l'étudiant doit :"
-    "- valider toutes les UE de L1 et L2 (correspondant à 120 crédits) ; "
-    "c’est le principe du passage de droit ;"
-    "- obtenir 105 crédits sur 120, c'est le principe du passage conditionnel."
-    "NB: La durée accordée à un étudiant pour achever le grade de Licence ne peut "
-    "dépasser quatre (4) années."
-    "Pour passer de M1 à M2, l'étudiant doit :"
-    "(1) valider les deux semestres de M1 (passage de droit);"
-    "(2) valider 75% des UE de M1 (correspondant à 45 crédits) (passage conditionnel)."
+    <string name="validation" formatted="false">
+    <![CDATA[ <p>
+    Pour valider le grade de Licence, il faut valider les niveaux L1, L2 et L3. Puisque chacun de ces niveaux comprend 2 semestres,
+    il faut donc les valider tous. Ainsi, si l\' étudiant obtient 180 crédits (6*30 crédits), il a validé le grade de Licence.
+</p>
+<p>
+    Pour valider le grade de Master, il faut valider les niveaux M1 et M2. Chacun de ces niveaux est composé de deux semestres,
+    donc il faut 120 crédits (4*30) pour prétendre au grade de Master.
+</p>
+<p>
+    Pour valider le grade de Doctorat, il faut obtenir 180 crédits (6*30) répartis entre les trois niveaux D1, D2 et D3.
+</p>
+<p>
+
+    <h4>MODE DE PROMOTION AU SEIN D\' UN GRADE</h4>
+    Dans le système LMD, l\' idéal c\' est de délibérer à la fin de chaque semestre pour donner les statistiques sur la promotion
+    des étudiants. Pour passer d\' un semestre à un autre, l\' étudiant doit valider :
+    <ul>
+        <li> les UE (correspondant à 30 crédits) du premier semestre (passage de droit)</li>
+        <li>ou 75% des UE du premier semestre correspondant à 23 crédits environs (passage conditionnel) </li>
+    </ul>
+    Pour passer de L1 à L2, l\' étudiant doit :
+    <ul>
+        <li>valider les deux semestres de L1 (correspondant à 60 crédits) ; c\' est le principe du passage de droit </li>
+        <li> ou valider 75% des UE de L1 (correspondant à 45 crédits) ; c’est le principe du passage conditionnel </li>
+    </ul>
+    Pour passer de L2 à L3, l\' étudiant doit :
+    <ul>
+        <li>valider toutes les UE de L1 et L2 (correspondant à 120 crédits) ; c’est le principe du passage de droit </li>
+        <li>obtenir 105 crédits sur 120, c\' est le principe du passage conditionnel</li>
+    </ul>
+    <u>NB:</u>
+    <br> La durée accordée à un étudiant pour achever le grade de Licence ne peut dépasser quatre (4) années.
+    <br><br> Pour passer de M1 à M2, l\' étudiant doit :
+    <ol>
+        <li>valider les deux semestres de M1 (passage de droit) </li>
+        <li> valider 75% des UE de M1 (correspondant à 45 crédits) (passage conditionnel)</li>
+    </ol>
+</p> ]]>
+    </string>
 </resources>

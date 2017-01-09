@@ -1,6 +1,8 @@
 package bayembaye.example.com.finalappguideetudiant.fragments;
 
 import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -27,7 +29,7 @@ public class UfrFragment extends Fragment {
     private String mParam2;
 
     //Views
-    private  GridView gridView;
+    private GridView gridView;
     private OnFragmentInteractionListener mListener;
 
     public UfrFragment() {
@@ -56,20 +58,20 @@ public class UfrFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View root =  inflater.inflate(R.layout.fragment_ufr, container, false);
-        gridView = (GridView)root.findViewById(R.id.gridview_for_ufr);
-        gridView.setAdapter(new UfrAdaptator(this.getContext(),R.layout.ufr_view, Driver.ListUFR) );
+        View root = inflater.inflate(R.layout.fragment_ufr, container, false);
+        gridView = (GridView) root.findViewById(R.id.gridview_for_ufr);
+        gridView.setAdapter(new UfrAdaptator(this.getContext(), R.layout.ufr_view, Driver.ListUFR));
         gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                Displayer fragment = new Displayer().newInstance(Driver.ImageListOfUFR[i],Driver.ID_TEXT[i],i);
-                android.support.v4.app.FragmentManager manager  = getFragmentManager();
-                manager.beginTransaction().replace(R.id.content_main,fragment,Driver.DISPLAYER_TAG)
+                Displayer fragment = new Displayer().newInstance(Driver.ImageListOfUFR[i], Driver.ID_TEXT[i], i);
+                android.support.v4.app.FragmentManager manager = getFragmentManager();
+                manager.beginTransaction().replace(R.id.content_main, fragment, Driver.DISPLAYER_TAG)
                         .addToBackStack(Driver.DISPLAYER_TAG)
                         .commit();
             }
         });
-        return  root;
+        return root;
     }
 
     // TODO: Rename method, update argument and hook method into UI event
@@ -101,7 +103,7 @@ public class UfrFragment extends Fragment {
         void onFragmentInteraction(Uri uri);
     }
 
-    public  class UfrAdaptator extends ArrayAdapter<String>{
+    public class UfrAdaptator extends ArrayAdapter<String> {
 
         public UfrAdaptator(Context context, int resource, String[] objects) {
             super(context, resource, objects);
@@ -111,20 +113,23 @@ public class UfrFragment extends Fragment {
         @Override
         public View getView(int position, View convertView, ViewGroup parent) {
             View newView = convertView;
-            if (newView == null){
-                LayoutInflater ft  = LayoutInflater.from(parent.getContext());
-                newView  = ft.inflate(R.layout.ufr_view,parent,false);
+            if (newView == null) {
+                LayoutInflater ft = LayoutInflater.from(parent.getContext());
+                newView = ft.inflate(R.layout.ufr_view, parent, false);
             }
             // after that identified of the view and set them
-            TextView text = (TextView)newView.findViewById(R.id.text_ufr);
-            ImageView image = (ImageView)newView.findViewById(R.id.image_ufr);
-            TextView pup = (TextView)newView.findViewById(R.id.text_pup);
+            TextView text = (TextView) newView.findViewById(R.id.text_ufr);
+            ImageView image = (ImageView) newView.findViewById(R.id.image_ufr);
+            TextView pup = (TextView) newView.findViewById(R.id.text_pup);
 
             //make the view on the screen
+//            if (image != null && image.getDrawable() != null)
+//                ((BitmapDrawable) image.getDrawable()).getBitmap().recycle();
+
             image.setImageResource(Driver.ImageListOfUFR[position]);
             text.setText(Driver.ListUFR[position]);
             pup.setText(Driver.Motcles[position]);
             return newView;
         }
-        }
+    }
 }

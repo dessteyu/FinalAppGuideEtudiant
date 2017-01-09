@@ -4,9 +4,11 @@ import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.text.Html;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebView;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -54,13 +56,15 @@ public class ItemShower extends Fragment {
         // Inflate the layout for this fragment
         View root =  inflater.inflate(R.layout.fragment_item_shower, container, false);
         //we find view for the shower screen
-        TextView text = (TextView)root.findViewById(R.id.id_text_shower);
+        WebView webview = (WebView) root.findViewById(R.id.id_text_shower);
         ImageView img = (ImageView)root.findViewById(R.id.image_shower_);
         TextView title = (TextView)root.findViewById(R.id.id_title_shower);
 
         //make the view on the fragment
         img.setImageResource(R.drawable.univ);
-        text.setText(idTextShower);
+//        text.setText(Html.fromHtml(this.getString(idTextShower)));
+        webview.getSettings().setJavaScriptEnabled(true);
+        webview.loadDataWithBaseURL(null, this.getString(idTextShower), "text/html", "UTF-8", "");
         title.setText(this.idTitleSower);
         return  root;
     }
